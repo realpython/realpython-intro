@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "start": "reveal-md slides/slides.md"
+  },
+  "author": "Michael Herman",
+  "license": "MIT"
+}
