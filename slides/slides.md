@@ -39,9 +39,9 @@ Note: Hello. Thank you for coming out. Bob asked me to do a quick 15-minute intr
 ### Educator
 
 1. Lead Instructor at Galvanize Full Stack
-1. mherman dot org
-1. Discover Flask
-1. thinkful
+1. [mherman dot org](http://mherman.org/)
+1. [discoverflask.com](discoverflask.com)
+1. thinkful mentor
 
 ----
 

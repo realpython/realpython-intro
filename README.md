@@ -4,19 +4,16 @@ Quick presentation for [PyData-Denver](https://www.meetup.com/PyData-Denver/) at
 
 ## Slides
 
+### View
+
 ```sh
 $ npm install -g reveal-md
-```
-
-#### View
-
-```sh
 $ npm start
 ```
 
 ### Print
 
 ```sh
-$ npm install -g phantomjs-prebuilt
+$ npm install -g reveal-md phantomjs-prebuilt
 $ npm run pdf
 ```
