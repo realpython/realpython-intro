@@ -1,6 +1,17 @@
+---
+title: Intro to Real Python
+theme: css/theme/solarized.css
+revealOptions:
+  transition: 'fade'
+---
+
 ## Introduction to Real Python
 
 ![Real Python Logo](./images/realpython_logo.png)
+
+-November 9th, 2016-
+
+Note: Hello. Thank you for coming out. Bob asked me to do a quick 15-minute intro on Real Python and how it can help you. So today, I will be covering...
 
 ---
 
@@ -13,7 +24,6 @@
   - who?
   - why?
 1. Conclusion
-
 
 ---
 

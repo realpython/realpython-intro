@@ -1,6 +1,8 @@
 {
   "scripts": {
-    "start": "reveal-md slides/slides.md"
+    "start": "reveal-md slides/slides.md --theme solarized",
+    "static": "reveal-md slides/slides.md --static",
+    "pdf": "reveal-md slides/slides.md --print slides.pdf"
   },
   "author": "Michael Herman",
   "license": "MIT"
