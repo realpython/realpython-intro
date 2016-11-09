@@ -7,11 +7,11 @@ revealOptions:
 
 ## Introduction to Real Python
 
-![Real Python Logo](./images/realpython_logo.png)
+<img src="./images/realpython_logo.png" style="background:none;border:none;box-shadow:none;">
 
--November 9th, 2016-
+*November 9th, 2016*
 
-Note: Hello. Thank you for coming out. Bob asked me to do a quick 15-minute intro on Real Python and how it can help you. So today, I will be covering...
+Note: Hello. Thanks for coming out. Much appreciated. As the title suggests I'll be introing Real Python...
 
 ---
 
@@ -20,83 +20,78 @@ Note: Hello. Thank you for coming out. Bob asked me to do a quick 15-minute intr
 1. `whoami`?
 1. Web dev - why?
 1. Real Python
-  - what?
-  - who?
-  - why?
 1. Conclusion
+
+---
+
+## Objectives
+
+By the end of this talk you should be able to...
+
+1. Answer the question -  *Why should data scientists learn web development?*
+1. Discuss the philosophy behind Real Python and how it can be used to learn web development
 
 ---
 
 ## `whoami`
 
-### Educator. Engineer. Entrepreneur.
+<br>
 
-![whoami](./images/whoami.png)
-
+<img src="./images/whoami.png" style="background:none;border:none;box-shadow:none;">
 
 ----
 
-### Educator
+### About me
 
-1. Lead Instructor at Galvanize Full Stack
-1. [mherman dot org](http://mherman.org/)
+1. Lead Instructor Full Stack at [Galvanize](http://www.galvanize.com/)
+1. Mentor at [Thinkful](https://www.thinkful.com/)
 1. [discoverflask.com](discoverflask.com)
-1. thinkful mentor
+1. [mherman.org](http://mherman.org/)
 
-----
+<img src="./images/galvanize.png" style="max-width:600px;background:none;border:none;box-shadow:none;">
 
-### Engineer
-
-1. Detail past life...
-1. JavaScript!
-1. Everything else - python, ruby, java
-1. Scraping, business tools, accounting
-
-----
-
-### Entrepreneur
-
-- Real Python
-- Starter Financial Model
-- Go Scrape
+Note: First language was c++ back in high school. Before galvanize, I was freelance for 6 years, focused on web development, web scraping, and business tools. Started working in tech education with Real Python.
 
 ---
 
 ## Web dev - why?
 
-- Q: Why should data scientists learn a bit of web dev?
-- A: Show off that data!
+----
+
+### Why should data scientists learn web dev?
+
+----
+
+## Answers!
+
+- Visualization - show off that data!
+- Gather - scraping, accessing (and parsing) web apis
+- Interaction - get people to interact with and add more data
 
 ---
 
 ## Real Python
 
-----
-
-### What?
-
 1. Learn Python and web development practically
-1. Kickstarter
+1. [Kickstarters](https://www.kickstarter.com/projects/721054906/real-python-advanced-web-development-featuring-dja?ref=nav_search)
+1. [Course philosophy](https://realpython.com/courses/) - bottom up, test-driven, language before framework
+1. [Flask By Example](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 
-----
-
-### Who?
-
-1. Fletcher - former VP of engineering turned freelance as a ROR dev
-1. Michael - you know who i am
-1. Jeremy - harvard, testing
-
-----
-
-### Why?
-
-Get that data online! Example app
+Note: Started in 2012 by Fletcher Heisler since there were no into to Python courses. I came on for the Kickstarter and to edit, and then launched course 2 focusing on web development. Focus is on open source and quality blog posts to attract people.
 
 ---
 
-## Conclusion
+## Recap
 
-1. `whoami` - Educator. Engineer. Entrepreneur.
-1. learn web dev!
-1. learn web dev via real python!
-1. questions, stickers, courses!
+1. Answer the question -  *Why should data scientists learn web development?*
+1. Discuss the philosophy behind Real Python and how it can be used to learn web development
+
+---
+
+## Questions?
+
+<br>
+
+*michael@realpython.com*
+<br>
+*50% off Real Python => **50PYDATA***
