@@ -11,7 +11,7 @@ revealOptions:
 
 *November 9th, 2016*
 
-Note: Hello. Thanks for coming out. Much appreciated. As the title suggests I'll be introing Real Python...
+Note: Hello. Thanks for coming out. Much appreciated. As the title suggests I'll be introducing Real Python...
 
 ---
 
@@ -30,6 +30,7 @@ By the end of this talk you should be able to...
 
 1. Answer the question -  *Why should data scientists learn web development?*
 1. Discuss the philosophy behind Real Python and how it can be used to learn web development
+1. Detail how you can level up from Real Python!
 
 ---
 
@@ -68,6 +69,10 @@ Note: First language was c++ back in high school. Before galvanize, I was freela
 - Gather - scraping, accessing (and parsing) web apis
 - Interaction - get people to interact with and add more data
 
+<br>
+
+*[example](https://github.com/realpython/flask-bokeh-example)*
+
 ---
 
 ## Real Python
@@ -85,6 +90,7 @@ Note: Started in 2012 by Fletcher Heisler since there were no into to Python cou
 
 1. Answer the question -  *Why should data scientists learn web development?*
 1. Discuss the philosophy behind Real Python and how it can be used to learn web development
+1. Detail how you can level up from Real Python!
 
 ---
 
@@ -95,3 +101,6 @@ Note: Started in 2012 by Fletcher Heisler since there were no into to Python cou
 *michael@realpython.com*
 <br>
 *50% off Real Python => **50PYDATA***
+<br>
+<br>
+:)
