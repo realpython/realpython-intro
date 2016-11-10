@@ -5,9 +5,11 @@ revealOptions:
   transition: 'fade'
 ---
 
-## Introduction to Real Python
+## Introduction to Real Python <br> for Data Scientists
 
-<img src="./images/realpython_logo.png" style="background:none;border:none;box-shadow:none;">
+<img src="./images/realpython_logo.png" style="max-width:400px;background:none;border:none;box-shadow:none;">
+
+(realpython.com)
 
 *November 9th, 2016*
 
@@ -18,9 +20,9 @@ Note: Hello. Thanks for coming out. Much appreciated. As the title suggests I'll
 ## Agenda
 
 1. `whoami`?
-1. Web dev - why?
+1. Web Development - why?
 1. Real Python
-1. Conclusion
+1. Recap/Conclusion/Questions
 
 ---
 
@@ -30,7 +32,7 @@ By the end of this talk you should be able to...
 
 1. Answer the question -  *Why should data scientists learn web development?*
 1. Discuss the philosophy behind Real Python and how it can be used to learn web development
-1. Detail how you can level up from Real Python!
+1. Detail how you can level up from Real Python
 
 ---
 
@@ -46,8 +48,9 @@ By the end of this talk you should be able to...
 
 1. Lead Instructor Full Stack at [Galvanize](http://www.galvanize.com/)
 1. Mentor at [Thinkful](https://www.thinkful.com/)
-1. [discoverflask.com](discoverflask.com)
-1. [mherman.org](http://mherman.org/)
+1. Resume @ [mherman.org](http://mherman.org/)
+1. OSS - [discoverflask.com](discoverflask.com), [github.com/mjhea0/](github.com/mjhea0/)
+1. 😍 - tech writing, [financial models](http://www.starterfinancialmodel.com/), radiohead, chilling
 
 <img src="./images/galvanize.png" style="max-width:600px;background:none;border:none;box-shadow:none;">
 
@@ -68,6 +71,7 @@ Note: First language was c++ back in high school. Before galvanize, I was freela
 - Visualization - show off that data!
 - Gather - scraping, accessing (and parsing) web apis
 - Interaction - get people to interact with and add more data
+- Learn - always be learning
 
 <br>
 
@@ -90,7 +94,7 @@ Note: Started in 2012 by Fletcher Heisler since there were no into to Python cou
 
 1. Answer the question -  *Why should data scientists learn web development?*
 1. Discuss the philosophy behind Real Python and how it can be used to learn web development
-1. Detail how you can level up from Real Python!
+1. Detail how you can level up from Real Python
 
 ---
 
