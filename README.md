@@ -17,3 +17,5 @@ $ npm start
 $ npm install -g reveal-md phantomjs-prebuilt
 $ npm run pdf
 ```
+
+> Want to show the speaker notes? Change `showNotes: true` to `showNotes: false` within the config at the top of *slides/slides.md*.

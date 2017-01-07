@@ -3,6 +3,7 @@ title: Intro to Real Python
 theme: css/theme/solarized.css
 revealOptions:
   transition: 'fade'
+  showNotes: false
 ---
 
 ## Introduction to Real Python <br> for Data Scientists
